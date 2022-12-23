@@ -2,6 +2,13 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Daniel Bui",
   "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "learning",
+    "backend",
+    "json-practice"
+  ],
+  "license": "freecodecamp",
   "dependencies": {
     "express": "^4.14.0"
   },
